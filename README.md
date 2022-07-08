@@ -34,7 +34,7 @@ Run "npm install semantic-ui-react semantic-ui-css" to install react semantic-ui
 
 # Screenshots 
 
-![App Screenshot](https://github.com/bishnuthapako/flatiron-school-react-project-pokemon/blob/master/src/img/pokeimg.jpg?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/bishnuthapako/phase-2-flatrion-pokemon-app-search/master/img/pokemon-img.jpg)
 
 
 # Conclusion 
