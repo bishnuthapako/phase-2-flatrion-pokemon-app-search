@@ -55,9 +55,10 @@ function handleAddOnData(newItem){
 
     <Container>
       <br/>
-      <Routes>
+      {/* <Routes>
         <Route path='/' element={<PokeHeader />} />
-      </Routes>
+      </Routes> */}
+      <PokeHeader />
       <br/>
       <br/>
       <PokeForm addOnData={handleAddOnData} />

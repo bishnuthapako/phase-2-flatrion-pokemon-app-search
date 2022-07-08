@@ -4,7 +4,7 @@ import { Form } from "semantic-ui-react";
 function PokeForm({addOnData}) {
 
   const [name, setName]=useState("")
-  const [hpValue, setHpValue]=useState(null)
+  const [hpValue, setHpValue]=useState(0)
   const [frontUrl, setFront]=useState("")
   const [backUrl, setBack]=useState("")
 
