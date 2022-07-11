@@ -15,7 +15,7 @@ function PokePage() {
   const [search, setSearch]=useState("")
   const [isLoading, setIsLoading]=useState(false)
 
-  const apiUrl = "http://localhost:3001/pokemon"
+  const apiUrl = "https://backend-pokemon-search-2.herokuapp.com/pokemon"
 
   const getPokemonApi = async ()=>{
     const response = await fetch(apiUrl)

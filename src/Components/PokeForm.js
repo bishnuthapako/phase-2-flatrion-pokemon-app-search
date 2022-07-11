@@ -38,7 +38,7 @@ function PokeForm({addOnData}) {
     }
     // console.log(itemData,'item')
 
-    fetch("http://localhost:3001/pokemon", {
+    fetch("https://backend-pokemon-search-2.herokuapp.com/pokemon", {
       method: 'POST',
       headers:{
         "Content-Type": "application/json",
