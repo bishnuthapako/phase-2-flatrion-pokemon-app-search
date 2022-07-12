@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phase-2-flatrion-pokemon-app-search/static/css/main.e8a9dadc.css",
-    "main.js": "/phase-2-flatrion-pokemon-app-search/static/js/main.dc732303.js",
+    "main.js": "/phase-2-flatrion-pokemon-app-search/static/js/main.582d70b5.js",
     "static/js/787.2a0e4486.chunk.js": "/phase-2-flatrion-pokemon-app-search/static/js/787.2a0e4486.chunk.js",
     "index.html": "/phase-2-flatrion-pokemon-app-search/index.html",
     "main.e8a9dadc.css.map": "/phase-2-flatrion-pokemon-app-search/static/css/main.e8a9dadc.css.map",
-    "main.dc732303.js.map": "/phase-2-flatrion-pokemon-app-search/static/js/main.dc732303.js.map",
+    "main.582d70b5.js.map": "/phase-2-flatrion-pokemon-app-search/static/js/main.582d70b5.js.map",
     "787.2a0e4486.chunk.js.map": "/phase-2-flatrion-pokemon-app-search/static/js/787.2a0e4486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a9dadc.css",
-    "static/js/main.dc732303.js"
+    "static/js/main.582d70b5.js"
   ]
 }
