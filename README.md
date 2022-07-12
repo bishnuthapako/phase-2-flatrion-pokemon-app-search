@@ -9,9 +9,7 @@ details of the searched pokemon using Sementic-ui to retrieve Pokemon details.
 All the information about Pokemon can be found in the db.json file. We'll be using json-server to create a RESTful API for our database.
 
 Run npm install to install our dependencies
-Then, run npm run server to start up json-server on http://localhost:3001.
 
-In another tab, run npm start to start up our React app at http://localhost:3000.
 Before you start building out the application, the first step that you should take is to draw out your component hierarchy. This will tell you how components can pass data to each other as well as where that information should be stored.
 Run "npm install semantic-ui-react semantic-ui-css" to install react semantic-ui.
 
